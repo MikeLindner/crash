@@ -1,7 +1,7 @@
 # crashme
 A collection of programs to crash computers.
 
-Useful for testing recovery systems.
+Useful for testing recovery systems, autoscaling etc.
 
 Also just hillarious =|-]
 
