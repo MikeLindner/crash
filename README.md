@@ -6,7 +6,7 @@ Useful for testing recovery systems, autoscaling etc.
 Also just hillarious =|-]
 
 
-_**Please note all these programs are really bad for computers.**
+**_Please note all these programs are really bad for computers._**
 
 Don't run them on anything important.  (Dev/Test/Crash-and-Burn machines only.)_
 
